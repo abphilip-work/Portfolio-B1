@@ -26,7 +26,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Benchi Philipose"
         tagline = "Sales & Marketing Professional"
-        avatar = "avatar.png"
 
 
 
@@ -178,9 +177,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Dedicated Professional with 25 years of experience in Sales, Marketing, Business Development,
-Key Account Management, Distribution / Channel Partner Management, Branch management and
-People Development in multifarious industry spectrum."
+        text = "Dedicated Professional with 25 years of experience in Sales, Marketing, Business Development, Key Account Management, Distribution / Channel Partner Management, Branch management and People Development in multifarious industry spectrum."
 
 
 
@@ -196,8 +193,7 @@ People Development in multifarious industry spectrum."
         title = "Director – Business Development"
         dates = "Jan 2021 - Present"
         company = "Urja Power And Building Automation. Bangalore, India"
-        details = "Developing periodic business plans & strategies, in coordination with macro plans of
-organization for revenue generation through sales for a division deal with Energy Monitoring & Power Quality Solutions and Services."
+        details = "Developing periodic business plans & strategies, in coordination with macro plans of organization for revenue generation through sales for a division deal with Energy Monitoring & Power Quality Solutions and Services."
 
         [[params.experience.list]]
         title = "Associated General Manager – Business Development"
@@ -221,8 +217,7 @@ organization for revenue generation through sales for a division deal with Energ
         title = "Area Manager – Sales & Support"
         dates = "Jan 1999 -Mar 2008"
         company = "Schneider Electric (Formerly Conzerv Systems).  Cochin / Coimbatore, India"
-        details = " Effectively handled the area as a profit center and achieved revenue, market share, profitability growth and handled the dealer network / developed relationships with different
-industrial segments. Tracked the productivity of the company engineers & the distributor’s engineers. Positioned the metering and power solution software products in premium segments. Conducted seminars, demonstrations, presentations for various forums etc. "
+        details = " Effectively handled the area as a profit center and achieved revenue, market share, profitability growth and handled the dealer network / developed relationships with different industrial segments. Tracked the productivity of the company engineers & the distributor’s engineers. Positioned the metering and power solution software products in premium segments. Conducted seminars, demonstrations, presentations for various forums etc. "
 
         [[params.experience.list]]
         title = "Territory Manager – Sales & Support"
