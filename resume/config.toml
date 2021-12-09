@@ -12,8 +12,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = "Benchi Philipose"
+    description = "My Resume"
 
 
     primaryColor = "#54B689"
@@ -24,7 +24,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
+        name = "Benchi Philipose"
         tagline = "Senior Software Engineer"
         avatar = "avatar.png"
 
@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Bangalore, India"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
