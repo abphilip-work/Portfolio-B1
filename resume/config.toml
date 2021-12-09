@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://checkallen.netlify.app/"
 languageCode = "en"
 title = "Benchi Philipose " 
 theme = "dev"
