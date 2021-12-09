@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "https://checkallen.netlify.app/"
+baseURL = "https://benchi-resume.netlify.app"
 languageCode = "en"
-title = "Benchi Philipose " 
+title = "Benchi Philipose" 
 theme = "dev"
 googleAnalytics = "UA-XXXXXXX-Y"
 
