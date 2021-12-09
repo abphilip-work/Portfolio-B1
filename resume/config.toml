@@ -116,10 +116,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Best Dealer Motivator Award"
         body = "Conserv Systems"
         date = "2002 & 2003"
-       name = "Best Team Player Award"
+        [[params.awards.list]]
+        name = "Best Team Player Award"
         body = "Conserv Systems"
         date = "2004 & 2005"
-       name = "POSE Value Champion Award"
+        [[params.awards.list]]
+        name = "POSE Value Champion Award"
         body = "Schneider Electric"
         date = "2010 & 2011"
 
@@ -236,5 +238,3 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-linkedin"
         url = "//www.linkedin.com/in/benchi-philipose-929a0486/"
         title = "Linkedin"
-
-
