@@ -244,3 +244,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-linkedin"
         url = "//www.linkedin.com/in/benchi-philipose-929a0486/"
         title = "Linkedin"
+
+    [params.footer]
+        copyright = ""
