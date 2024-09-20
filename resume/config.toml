@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://benchi-resume.netlify.app"
+baseURL = "https://benchi.netlify.app"
 languageCode = "en"
 title = "Benchi Philipose" 
 theme = "dev"
@@ -137,19 +137,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.languages.list]]
         name = "English"
-        level = "…."
+        level = "----"
         [[params.languages.list]]
         name = "Hindi"
-        level = "…"
+        level = "---"
        [[params.languages.list]]
         name = "Tamil"
-        level = "…"
+        level = "---"
         [[params.languages.list]]
         name = "Kannada"
-        level = ".."
+        level = "--"
         [[params.languages.list]]
         name = "Malayalam"
-        level = "…."
+        level = "----"
 
 
 
@@ -192,19 +192,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
+        title = "Associate Vice President - Business Development"
+        dates = "Feb 2024 – Present"
+        company = "Elecroom Technologies. Bangalore, India"
+        details = "Leading the business development activites for major brands like EAPL, Delixi Electric, Dewon Electric, Relicell Battery, etc."
+
+        [[params.experience.list]]
         title = "Director – Business Development"
-        dates = "Jan 2021 - Present"
+        dates = "Jan 2021 - Jan 2024"
         company = "Urja Power And Building Automation. Bangalore, India"
         details = "Developing periodic business plans & strategies, in coordination with macro plans of organization for revenue generation through sales for a division deal with Energy Monitoring & Power Quality Solutions and Services."
 
         [[params.experience.list]]
-        title = "Associated General Manager – Business Development"
+        title = "Associate General Manager – Business Development"
         dates = "Jul 2015 – Dec 2019"
         company = "Schneider Electric. Mumbai, India"
-        details = "Managed the business through Distributors & Direct in collaboration with national sales team, as per the need of Power Solutions business unit, a division deal with Metering, Energy Monitoring Software, Energy Audit, Energy Efficiency Solutions, Capacitors, APFC Panels, Harmonic filters, etc. Made Area Specific Strategy, Ensured Implementation & Generation of New Business. Monitored the Performance monthly and fine-tuned strategies as and when required, to ensure healthy growth from each region. Focused on Solution Sales and Ensured Specific Effort at End Customer from influencer level to CXO level. "
+        details = "Managed the business through Distributors & Direct in collaboration with national sales team, as per the need of Power Solutions business unit, a division deal with Metering, Energy Monitoring Software, Energy Audit, Energy Efficiency Solutions, Capacitors, APFC Panels, Harmonic filters, etc. Made Area Specific Strategy, Ensured Implementation & Generation of New Business. Monitored the Performance monthly and fine-tuned strategies as and when required, to ensure healthy growth from each region. Focused on Solution Sales and Ensured Specific Effort at End Customer from influencer level to CXO level."
 
         [[params.experience.list]]
-        title = " Associated General Manager – Customer Marketing"
+        title = " Associate General Manager – Customer Marketing"
         dates = "Jan 2012 – Jun 2015"
         company = " Schneider Electric. Bangalore, India "
         details = " Updated and Refreshed Panel Builder (PB)Channel Strategy / Road Map, Lead the effort in strengthening relationship with Partners / Key Panel Builders, Maintained close relationship at PB’s CEO / owners’ level and Deployed the loyalty program for the partners. "
