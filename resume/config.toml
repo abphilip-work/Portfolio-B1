@@ -8,7 +8,7 @@ theme = "dev"
 
 [params]
     author = "Benchi Philipose"
-    description = "My Resume"
+    description = "Resume"
 
 
     primaryColor = "#54B689"
@@ -129,7 +129,7 @@ theme = "dev"
 
 
     [params.interests]
-        enable = true
+        enable = False
 
         [[params.interests.list]]
         name = "Reading"
@@ -141,13 +141,9 @@ theme = "dev"
         name = "Travelling"
 
 
-
-
     [params.summary]
         enable = true
         text = "Dedicated Professional with 25 years of experience in Sales, Marketing, Business Development, Key Account Management, Distribution / Channel Partner Management, Branch management and People Development in multifarious industry spectrum."
-
-
 
     [params.experience]
         enable = true
@@ -195,14 +191,9 @@ theme = "dev"
         details = " Business Development with Major computer dealers, End Customers, and traders to increase the reach and Business of Power Conditioning Equipment’s like UPS, Stabilizers etc. Successfully coordinated with factory for effective SCM and allocation of material to assure timely delivery of order."
 
 
-
     [params.social]
         enable = true
-
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "//www.linkedin.com/in/benchi-philipose-929a0486/"
         title = "Linkedin"
-
-[params.footer]
-    copyright = ""
