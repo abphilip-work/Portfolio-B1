@@ -4,11 +4,6 @@ baseURL = "https://benchi.netlify.app"
 languageCode = "en"
 title = "Benchi Philipose" 
 theme = "dev"
-googleAnalytics = "UA-XXXXXXX-Y"
-
-
-
-
 
 
 [params]
@@ -20,16 +15,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
     textPrimaryColor = "#292929"
 
 
-
-
     [params.profile]
         enable = true
         name = "Benchi Philipose"
         tagline = "Sales & Marketing Professional"
-
-
-
-
 
 
 
@@ -45,10 +34,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fas fa-envelope-square"
         url = "mailto:#"
         text = "benchiphilipose@rediffmail.com"
-
-
-
-
 
 
 
@@ -79,11 +64,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
-
     [params.education]
         enable = true
 
@@ -98,9 +78,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.education.list]]
         degree = "Pre Degree Course in PCM"
         university = "Kerala University"
-
-
-
 
 
 
@@ -129,31 +106,24 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
     [params.languages]
         enable = true
 
         [[params.languages.list]]
         name = "English"
-        level = "----"
+        level = "...."
         [[params.languages.list]]
         name = "Hindi"
-        level = "---"
+        level = "..."
        [[params.languages.list]]
         name = "Tamil"
-        level = "---"
+        level = "..."
         [[params.languages.list]]
         name = "Kannada"
-        level = "--"
+        level = ".."
         [[params.languages.list]]
         name = "Malayalam"
-        level = "----"
-
-
-
-
+        level = "...."
 
 
 
@@ -173,18 +143,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
     [params.summary]
         enable = true
         text = "Dedicated Professional with 25 years of experience in Sales, Marketing, Business Development, Key Account Management, Distribution / Channel Partner Management, Branch management and People Development in multifarious industry spectrum."
-
-
-
-
-
 
 
 
@@ -235,8 +196,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
     [params.social]
         enable = true
 
@@ -245,5 +204,5 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "//www.linkedin.com/in/benchi-philipose-929a0486/"
         title = "Linkedin"
 
-    [params.footer]
-        copyright = ""
+[params.footer]
+    copyright = ""
